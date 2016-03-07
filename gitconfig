@@ -1,0 +1,10 @@
+[user]
+	name = Jordan Thayer
+	email = jordan.thayer@gmail.com
+[core]
+	editor = emacsclient
+[push]
+	default = simple
+[http]
+	sslverify = false
+[https]
